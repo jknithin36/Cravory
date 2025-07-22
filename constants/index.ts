@@ -41,6 +41,9 @@ import salad from "@/assets/images/salad.png";
 import success from "@/assets/images/success.png";
 import tomatoes from "@/assets/images/tomatoes.png";
 
+import auth from "@/assets/images/auth.png";
+import authGraphic from "@/assets/images/graphic.png";
+
 export const CATEGORIES = [
   {
     id: "1",
@@ -168,8 +171,10 @@ export const images = {
   coleslaw,
   cucumber,
   emptyState,
+  auth,
   fries,
   loginGraphic,
+  authGraphic,
   logo,
   mozarellaSticks,
   mushrooms,
